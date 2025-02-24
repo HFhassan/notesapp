@@ -21,10 +21,10 @@ builder.Services.AddSwaggerGen();
 // Configure CORS
 builder.Services.AddCors(options =>
 {
-    options.AddDefaultPolicy(builder =>
+    options.AddDefaultPolicy(policyBuilder =>
     {
         var frontendUrl = builder.Configuration["FrontendUrl"] ?? "http://localhost:3000";
-        builder
+        policyBuilder
             .WithOrigins(frontendUrl)
             .AllowAnyHeader()
             .AllowAnyMethod();

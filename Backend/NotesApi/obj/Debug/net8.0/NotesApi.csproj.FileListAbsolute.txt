@@ -58,3 +58,4 @@ E:\cursor\Notes App\Backend\NotesApi\obj\Debug\net8.0\refint\NotesApi.dll
 E:\cursor\Notes App\Backend\NotesApi\obj\Debug\net8.0\NotesApi.pdb
 E:\cursor\Notes App\Backend\NotesApi\obj\Debug\net8.0\NotesApi.genruntimeconfig.cache
 E:\cursor\Notes App\Backend\NotesApi\obj\Debug\net8.0\ref\NotesApi.dll
+E:\cursor\Notes App\Backend\NotesApi\obj\Debug\net8.0\NotesApi.sourcelink.json
